@@ -6,3 +6,5 @@ The dependecies I'm using are
 Spring Web
 Spring data JPA
 PostgreSQL Driver
+
+I'm using application.yaml instead of properties
